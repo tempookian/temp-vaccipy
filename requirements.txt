@@ -1,0 +1,15 @@
+certifi>=2020.12.5
+chardet>=4.0.0
+idna>=2.5,<3
+selenium>=3.141.0
+urllib3>=1.26.4
+pyinstaller>=4.3
+plyer>=2.0.0
+cloudscraper>=1.2.52
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+requests>=2.25.1
+tqdm>=4.61.0
+selenium-wire>=4.3.1
+undetected-chromedriver>=3.0.1
